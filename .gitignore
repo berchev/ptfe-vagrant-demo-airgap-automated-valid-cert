@@ -1,4 +1,5 @@
-assets/
+assets/replicated.tar.gz
+assets/v202004-2.airgap
 sensitive/hashicorp-support-sofia.rli
 sensitive/privkey.pem
 sensitive/fullchain.pem
